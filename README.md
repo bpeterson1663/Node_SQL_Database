@@ -1,4 +1,8 @@
-# node_sql_database
+# Node_SQL_Database
+
+This assignment at Prime Digital Academy was to help us understand how to use Node.js and SQL together. We were to create an application in which we were to add information about people (address, city, etc.) and retrieve the information from the database.
+
+##Directions
 Node SQL Form Update
 Expand upon the form and database from lecture.
 
